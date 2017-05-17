@@ -10,14 +10,14 @@ Install
 Usage
 -----
 
-Chosse any `from` and `to` base alphabet
+Choose any `from` and `to` base alphabet
 
 ```js
 import bc from '@betafcc/base-converter';
 
 const decToBin = bc
     .from('0123456789')
-    .to('01')
+    .to('01');
 
 decToBin('2'); // '10'
 ```
