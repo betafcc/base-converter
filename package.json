@@ -1,0 +1,24 @@
+{
+  "name": "@betafcc/base-converter",
+  "version": "0.0.1",
+  "description": "Arbitrary-base number converter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betafcc/base-converter.git"
+  },
+  "keywords": [
+    "utility",
+    "base",
+    "converter"
+  ],
+  "author": "Beta Faccion <betafcc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betafcc/base-converter/issues"
+  },
+  "homepage": "https://github.com/betafcc/base-converter#readme"
+}
