@@ -1,6 +1,6 @@
 # base-converter
 
-An any-base integer converter
+An integer converter for any [positional notation](https://en.wikipedia.org/wiki/Positional_notation) representation
 
 Install
 -------
